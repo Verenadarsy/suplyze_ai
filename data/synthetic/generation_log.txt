@@ -1,0 +1,19 @@
+RINGKASAN GENERATE DATA SINTETIS
+=================================
+Total baris BOM       : 81
+Total baris Inventory : 45
+Outlet dengan status KRITIS       : 2 baris
+Outlet dengan status PERLU_REORDER: 0 baris
+
+Asumsi kunci:
+  - 18 g biji kopi per serving espresso (dosis modern, seragam, tanpa multiplier shot; sesuai deskripsi produk yang semuanya '1 shot')
+  - Susu hot 180 ml / ice 180 ml per gelas milk-based
+  - Syrup 15 ml per gelas flavored
+  - Es batu 120 g per gelas ice
+  - SafetyStock = 1.5 x rata-rata pemakaian harian
+  - ReorderPoint = avg_daily_usage x LeadTimeDays + SafetyStock
+  - Skenario shortage sengaja diinjeksi di Outlet_Bandung untuk Susu (ING03) & Es Batu (ING09) sebagai demo case.
+
+Contoh baris KRITIS (untuk demo scenario):
+  ['Outlet_Bandung', 'ING03', 'Susu UHT Full Cream', 1642.84, 1469.4, 2464.3, 5750.0, 2, 'KRITIS']
+  ['Outlet_Bandung', 'ING09', 'Es Batu', 767.74, 848.6, 1151.6, 1919.3, 1, 'KRITIS']

@@ -1,0 +1,16 @@
+IngredientId,IngredientName,Category,Unit,UnitCostRp,ShelfLifeDays,LeadTimeDays,SupplierType
+ING01,Biji Kopi Arabica,Coffee Bean,g,350,180,3,Roaster Partner
+ING02,Biji Kopi Houseblend,Coffee Bean,g,280,180,3,Roaster Partner
+ING03,Susu UHT Full Cream,Dairy,ml,18,10,2,Distributor Susu
+ING04,Sirup Gula Aren,Syrup,ml,40,90,5,Supplier Sirup
+ING05,Sirup Vanilla,Syrup,ml,45,120,5,Supplier Sirup
+ING06,Sirup Apple Pie,Syrup,ml,48,120,5,Supplier Sirup
+ING07,Sirup Butterscotch,Syrup,ml,48,120,5,Supplier Sirup
+ING08,Bubuk Coklat,Powder,g,90,180,5,Supplier Bahan Kering
+ING09,Es Batu,Ice,g,2,1,1,Produksi Internal
+ING10,Air Panas/Dingin,Water,ml,0.5,365,1,Produksi Internal
+ING11,Cup Hot 12oz,Packaging,pcs,800,365,4,Supplier Kemasan
+ING12,Cup Ice 16oz,Packaging,pcs,900,365,4,Supplier Kemasan
+ING13,Lid Cup,Packaging,pcs,250,365,4,Supplier Kemasan
+ING14,Straw,Packaging,pcs,150,365,4,Supplier Kemasan
+ING15,Jus Citrus,Juice,ml,30,3,2,Supplier Buah Segar

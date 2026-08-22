@@ -1,0 +1,82 @@
+ProductId,ProductName,Variant,IngredientId,IngredientName,QtyPerServing,Unit
+50,Friendly Coffee,Ice,ING02,Biji Kopi Houseblend,18,g
+50,Friendly Coffee,Ice,ING03,Susu UHT Full Cream,180,ml
+50,Friendly Coffee,Ice,ING04,Sirup Gula Aren,15,ml
+50,Friendly Coffee,Ice,ING09,Es Batu,120,g
+50,Friendly Coffee,Ice,ING12,Cup Ice 16oz,1,pcs
+50,Friendly Coffee,Ice,ING14,Straw,1,pcs
+50,Friendly Coffee,Ice,ING13,Lid Cup,1,pcs
+49,Friendly Coffee,Hot,ING02,Biji Kopi Houseblend,18,g
+49,Friendly Coffee,Hot,ING03,Susu UHT Full Cream,180,ml
+49,Friendly Coffee,Hot,ING04,Sirup Gula Aren,15,ml
+49,Friendly Coffee,Hot,ING11,Cup Hot 12oz,1,pcs
+49,Friendly Coffee,Hot,ING13,Lid Cup,1,pcs
+6,Americano,Hot Arabica,ING01,Biji Kopi Arabica,18,g
+6,Americano,Hot Arabica,ING10,Air Panas/Dingin,30,ml
+6,Americano,Hot Arabica,ING11,Cup Hot 12oz,1,pcs
+6,Americano,Hot Arabica,ING13,Lid Cup,1,pcs
+25,Butterscotch,-,ING02,Biji Kopi Houseblend,18,g
+25,Butterscotch,-,ING03,Susu UHT Full Cream,180,ml
+25,Butterscotch,-,ING07,Sirup Butterscotch,15,ml
+25,Butterscotch,-,ING11,Cup Hot 12oz,1,pcs
+25,Butterscotch,-,ING13,Lid Cup,1,pcs
+79,Shakencano,-,ING02,Biji Kopi Houseblend,18,g
+79,Shakencano,-,ING10,Air Panas/Dingin,30,ml
+79,Shakencano,-,ING04,Sirup Gula Aren,15,ml
+79,Shakencano,-,ING09,Es Batu,120,g
+79,Shakencano,-,ING12,Cup Ice 16oz,1,pcs
+79,Shakencano,-,ING14,Straw,1,pcs
+79,Shakencano,-,ING13,Lid Cup,1,pcs
+5,Americano,Ice Houesblend,ING01,Biji Kopi Arabica,18,g
+5,Americano,Ice Houesblend,ING10,Air Panas/Dingin,30,ml
+5,Americano,Ice Houesblend,ING09,Es Batu,120,g
+5,Americano,Ice Houesblend,ING12,Cup Ice 16oz,1,pcs
+5,Americano,Ice Houesblend,ING14,Straw,1,pcs
+5,Americano,Ice Houesblend,ING13,Lid Cup,1,pcs
+56,Happy Moca,Hot,ING02,Biji Kopi Houseblend,18,g
+56,Happy Moca,Hot,ING03,Susu UHT Full Cream,180,ml
+56,Happy Moca,Hot,ING08,Bubuk Coklat,15,g
+56,Happy Moca,Hot,ING11,Cup Hot 12oz,1,pcs
+56,Happy Moca,Hot,ING13,Lid Cup,1,pcs
+80,Sitrus Cafe,-,ING02,Biji Kopi Houseblend,18,g
+80,Sitrus Cafe,-,ING15,Jus Citrus,60,ml
+80,Sitrus Cafe,-,ING09,Es Batu,120,g
+80,Sitrus Cafe,-,ING12,Cup Ice 16oz,1,pcs
+80,Sitrus Cafe,-,ING14,Straw,1,pcs
+80,Sitrus Cafe,-,ING13,Lid Cup,1,pcs
+88,Vanilla Latte,-,ING02,Biji Kopi Houseblend,18,g
+88,Vanilla Latte,-,ING03,Susu UHT Full Cream,180,ml
+88,Vanilla Latte,-,ING05,Sirup Vanilla,15,ml
+88,Vanilla Latte,-,ING09,Es Batu,120,g
+88,Vanilla Latte,-,ING12,Cup Ice 16oz,1,pcs
+88,Vanilla Latte,-,ING14,Straw,1,pcs
+88,Vanilla Latte,-,ING13,Lid Cup,1,pcs
+8,Apple Pie Latte,-,ING02,Biji Kopi Houseblend,18,g
+8,Apple Pie Latte,-,ING03,Susu UHT Full Cream,180,ml
+8,Apple Pie Latte,-,ING06,Sirup Apple Pie,15,ml
+8,Apple Pie Latte,-,ING11,Cup Hot 12oz,1,pcs
+8,Apple Pie Latte,-,ING13,Lid Cup,1,pcs
+43,Espresso Houseblend,Basic Espresso,ING02,Biji Kopi Houseblend,18,g
+43,Espresso Houseblend,Basic Espresso,ING11,Cup Hot 12oz,1,pcs
+43,Espresso Houseblend,Basic Espresso,ING13,Lid Cup,1,pcs
+18,Basic Latte,Ice Arabica,ING01,Biji Kopi Arabica,18,g
+18,Basic Latte,Ice Arabica,ING03,Susu UHT Full Cream,180,ml
+18,Basic Latte,Ice Arabica,ING09,Es Batu,120,g
+18,Basic Latte,Ice Arabica,ING12,Cup Ice 16oz,1,pcs
+18,Basic Latte,Ice Arabica,ING14,Straw,1,pcs
+18,Basic Latte,Ice Arabica,ING13,Lid Cup,1,pcs
+57,Happy Moca,Ice,ING02,Biji Kopi Houseblend,18,g
+57,Happy Moca,Ice,ING03,Susu UHT Full Cream,180,ml
+57,Happy Moca,Ice,ING08,Bubuk Coklat,15,g
+57,Happy Moca,Ice,ING09,Es Batu,120,g
+57,Happy Moca,Ice,ING12,Cup Ice 16oz,1,pcs
+57,Happy Moca,Ice,ING14,Straw,1,pcs
+57,Happy Moca,Ice,ING13,Lid Cup,1,pcs
+30,Cappuccino,Hot Arabica,ING01,Biji Kopi Arabica,18,g
+30,Cappuccino,Hot Arabica,ING03,Susu UHT Full Cream,180,ml
+30,Cappuccino,Hot Arabica,ING11,Cup Hot 12oz,1,pcs
+30,Cappuccino,Hot Arabica,ING13,Lid Cup,1,pcs
+15,Basic Latte,Hot Arabica,ING01,Biji Kopi Arabica,18,g
+15,Basic Latte,Hot Arabica,ING03,Susu UHT Full Cream,180,ml
+15,Basic Latte,Hot Arabica,ING11,Cup Hot 12oz,1,pcs
+15,Basic Latte,Hot Arabica,ING13,Lid Cup,1,pcs
